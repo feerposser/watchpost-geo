@@ -1,0 +1,282 @@
+Data e hora:06-07-2019 19:52:05
+
+1 - 13 DE MAIO
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest', 'university'] ", 'Endere√ßo completo encontrado: Av. Brasil Leste, 285 - S„o JosÈ, Passo Fundo - RS, 99052-900, Brasil', "componentes de endere√ßo: [{'types': ['street_number'], 'long_name': '285', 'short_name': '285'}, {'types': ['route'], 'long_name': 'Avenida Brasil Leste', 'short_name': 'Av. Brasil Leste'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'S„o JosÈ', 'short_name': 'S„o JosÈ'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99052-900', 'short_name': '99052-900'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 128
+
+2 - CENTRO
+
+Estava na lista de nomes ['CENTRO', 'Endere√ßo completo: Centro, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+129
+
+
+
+3 - CENTRO SEDE
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Benjamin Constant, 286 - Centro, Passo Fundo - RS, 99010-130, Brasil', "componentes de endere√ßo: [{'types': ['street_number'], 'long_name': '286', 'short_name': '286'}, {'types': ['route'], 'long_name': 'Rua Benjamin Constant', 'short_name': 'R. Benjamin Constant'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Centro', 'short_name': 'Centro'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99010-130', 'short_name': '99010-130'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 130
+
+4 - CENTROSEDE
+
+Estava na lista de nomes ['CENTRO', 'Endere√ßo completo: Centro, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+131
+
+
+
+5 - DISTRITO INDUSTRIAL
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: RST- 324, km 6 - Distrito Industrial, Passo Fundo - RS, 99032-680, Brasil', "componentes de endere√ßo: [{'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99032-680', 'short_name': '99032-680'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 132
+
+6 - DISTRITO INDUSTRIAL AUGUTOS
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: Rodovia BR 285, km 296, s/n - Centro LogÌstico LOG 285 - Distrito Industrial, Passo Fundo - RS, 99042-800, Brasil', "componentes de endere√ßo: [{'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Distrito Industrial', 'short_name': 'Distrito Industrial'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99042-800', 'short_name': '99042-800'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 133
+
+7 - MENEGAZ
+
+["N√£o √© bairro segundo a API ['establishment', 'furniture_store', 'home_goods_store', 'point_of_interest', 'store'] ", 'Endere√ßo completo encontrado: Av. Pres. Vargas, 347 - Vila Lucas Araujo, Passo Fundo - RS, 99064-000, Brasil', "componentes de endere√ßo: [{'types': ['street_number'], 'long_name': '347', 'short_name': '347'}, {'types': ['route'], 'long_name': 'Avenida Presidente Vargas', 'short_name': 'Avenida Presidente Vargas'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Vila Lucas Araujo', 'short_name': 'Vila Lucas Araujo'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99064-000', 'short_name': '99064-000'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 134
+
+8 - DISTRITO INDUSTRIAL JO√O
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: RST- 324, km 6 - Distrito Industrial, Passo Fundo - RS, 99032-680, Brasil', "componentes de endere√ßo: [{'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99032-680', 'short_name': '99032-680'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 135
+
+9 - FORTUNATO
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest', 'university'] ", 'Endere√ßo completo encontrado: Av. Brasil Leste, 285 - S„o JosÈ, Passo Fundo - RS, 99052-900, Brasil', "componentes de endere√ßo: [{'types': ['street_number'], 'long_name': '285', 'short_name': '285'}, {'types': ['route'], 'long_name': 'Avenida Brasil Leste', 'short_name': 'Av. Brasil Leste'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'S„o JosÈ', 'short_name': 'S„o JosÈ'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99052-900', 'short_name': '99052-900'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 136
+
+10 - INDUSTRIAL
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. AntÙnio Bulamarque, 1-189 - Rosel‚ndia, Passo Fundo - RS, 99066-150, Brasil', "componentes de endere√ßo: [{'types': ['street_number'], 'long_name': '1-189', 'short_name': '1-189'}, {'types': ['route'], 'long_name': 'Rua AntÙnio Bulamarque', 'short_name': 'R. AntÙnio Bulamarque'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Rosel‚ndia', 'short_name': 'Rosel‚ndia'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99066-150', 'short_name': '99066-150'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 137
+
+11 - INDUSTRIAL AUGUSTO MENEGAZ
+
+["N√£o √© bairro segundo a API ['establishment', 'furniture_store', 'home_goods_store', 'point_of_interest', 'store'] ", 'Endere√ßo completo encontrado: Av. Pres. Vargas, 347 - Vila Lucas Araujo, Passo Fundo - RS, 99064-000, Brasil', "componentes de endere√ßo: [{'types': ['street_number'], 'long_name': '347', 'short_name': '347'}, {'types': ['route'], 'long_name': 'Avenida Presidente Vargas', 'short_name': 'Avenida Presidente Vargas'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Vila Lucas Araujo', 'short_name': 'Vila Lucas Araujo'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99064-000', 'short_name': '99064-000'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 138
+
+12 - INTERIOR
+
+["N√£o √© bairro segundo a API ['locality', 'political'] ", 'Endere√ßo completo encontrado: Passo Fundo, RS, Brasil', "componentes de endere√ßo: [{'types': ['locality', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 139
+
+13 - JO√O FORTUNATO
+
+["N√£o √© bairro segundo a API ['locality', 'political'] ", 'Endere√ßo completo encontrado: Passo Fundo, RS, Brasil', "componentes de endere√ßo: [{'types': ['locality', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 140
+
+14 - LINHA GALEGARI
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Cel. Camis„o, 421 - Centro, Passo Fundo - RS, 99010-230, Brasil', "componentes de endere√ßo: [{'types': ['street_number'], 'long_name': '421', 'short_name': '421'}, {'types': ['route'], 'long_name': 'Rua Coronel Camis„o', 'short_name': 'R. Cel. Camis„o'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Centro', 'short_name': 'Centro'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99010-230', 'short_name': '99010-230'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 141
+
+15 - LINHA SPAGNOL
+
+["N√£o √© bairro segundo a API ['locality', 'political'] ", 'Endere√ßo completo encontrado: Passo Fundo, RS, Brasil', "componentes de endere√ßo: [{'types': ['locality', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 142
+
+16 - LOTEAMENTO REALL LI
+
+["N√£o √© bairro segundo a API ['establishment', 'general_contractor', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Camilo Ribeiro, 269 - S„o Cristovao, Passo Fundo - RS, 99060-000, Brasil', "componentes de endere√ßo: [{'types': ['street_number'], 'long_name': '269', 'short_name': '269'}, {'types': ['route'], 'long_name': 'Rua Camilo Ribeiro', 'short_name': 'R. Camilo Ribeiro'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'S„o Cristovao', 'short_name': 'S„o Cristovao'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99060-000', 'short_name': '99060-000'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 143
+
+17 - NAZAR…
+
+["N√£o √© bairro segundo a API ['church', 'establishment', 'place_of_worship', 'point_of_interest'] ", 'Endere√ßo completo encontrado: ua Major Joao Schel Esquina com R. - R. Tiradentes - Annes, Passo Fundo - RS, Brasil', "componentes de endere√ßo: [{'types': ['route'], 'long_name': 'Rua Tiradentes', 'short_name': 'R. Tiradentes'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Annes', 'short_name': 'Annes'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 144
+
+18 - PARIMETRAL
+
+["N√£o √© bairro segundo a API ['route'] ", 'Endere√ßo completo encontrado: Av. Perimetral, Passo Fundo - RS, Brasil', "componentes de endere√ßo: [{'types': ['route'], 'long_name': 'Avenida Perimetral', 'short_name': 'Av. Perimetral'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code', 'postal_code_prefix'], 'long_name': '99054', 'short_name': '99054'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 145
+
+19 - RODOVIA
+
+["N√£o √© bairro segundo a API ['establishment', 'local_government_office', 'moving_company', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. ¬ngelo Preto, 158 - Centro, Passo Fundo - RS, 99010-270, Brasil', "componentes de endere√ßo: [{'types': ['street_number'], 'long_name': '158', 'short_name': '158'}, {'types': ['route'], 'long_name': 'Rua ¬ngelo Preto', 'short_name': 'R. ¬ngelo Preto'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Centro', 'short_name': 'Centro'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99010-270', 'short_name': '99010-270'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 146
+
+20 - S√O CRIST”V√O
+
+Estava na lista de nomes ['S√O CRISTOVAO', 'Endere√ßo completo: S„o Cristovao, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+147
+
+
+
+21 - S√O PAULO
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest', 'store'] ", 'Endere√ßo completo encontrado: Av. Brasil Oeste, 561 - Centro, Passo Fundo - RS, 99010-121, Brasil', "componentes de endere√ßo: [{'types': ['street_number'], 'long_name': '561', 'short_name': '561'}, {'types': ['route'], 'long_name': 'Avenida Brasil Oeste', 'short_name': 'Av. Brasil Oeste'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Centro', 'short_name': 'Centro'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99010-121', 'short_name': '99010-121'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 148
+
+22 - SADA PAR¡ SANTA CECÕLIA DO SUL
+
+["N√£o √© bairro segundo a API ['locality', 'political'] ", 'Endere√ßo completo encontrado: Santa CecÌlia do Sul, RS, 99952-000, Brasil', "componentes de endere√ßo: [{'types': ['locality', 'political'], 'long_name': 'Santa CecÌlia do Sul', 'short_name': 'Santa CecÌlia do Sul'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Santa CecÌlia do Sul', 'short_name': 'Santa CecÌlia do Sul'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99952-000', 'short_name': '99952-000'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 149
+
+23 - S√O PAULO NORTE
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest', 'store'] ", 'Endere√ßo completo encontrado: R. S„o Paulo, 36 - Vl Sta Maria, Passo Fundo - RS, 99070-310, Brasil', "componentes de endere√ßo: [{'types': ['street_number'], 'long_name': '36', 'short_name': '36'}, {'types': ['route'], 'long_name': 'Rua S„o Paulo', 'short_name': 'R. S„o Paulo'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Vl Sta Maria', 'short_name': 'Vl Sta Maria'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99070-310', 'short_name': '99070-310'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 150
+
+24 - SEDE
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Carolina Vergueiro, 199 - Vergueiro, Passo Fundo - RS, 99020-010, Brasil', "componentes de endere√ßo: [{'types': ['street_number'], 'long_name': '199', 'short_name': '199'}, {'types': ['route'], 'long_name': 'Rua Carolina Vergueiro', 'short_name': 'R. Carolina Vergueiro'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Vergueiro', 'short_name': 'Vergueiro'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99020-010', 'short_name': '99020-010'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 151
+
+25 - VILA 13 DE MAIO
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest', 'university'] ", 'Endere√ßo completo encontrado: R. Sen. Pinheiro, 304 - Vila Rodrigues, Passo Fundo - RS, 99070-220, Brasil', "componentes de endere√ßo: [{'types': ['street_number'], 'long_name': '304', 'short_name': '304'}, {'types': ['route'], 'long_name': 'Rua Senador Pinheiro', 'short_name': 'R. Sen. Pinheiro'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Vila Rodrigues', 'short_name': 'Vila Rodrigues'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99070-220', 'short_name': '99070-220'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 152
+
+26 - VILA CAMPOS
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Humberto de Campos - Vila Popular, Passo Fundo - RS, 99010-120, Brasil', "componentes de endere√ßo: [{'types': ['route'], 'long_name': 'Rua Humberto de Campos', 'short_name': 'R. Humberto de Campos'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Vila Popular', 'short_name': 'Vila Popular'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Passo Fundo', 'short_name': 'Passo Fundo'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Rio Grande do Sul', 'short_name': 'RS'}, {'types': ['country', 'political'], 'long_name': 'Brasil', 'short_name': 'BR'}, {'types': ['postal_code'], 'long_name': '99010-120', 'short_name': '99010-120'}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 153
+

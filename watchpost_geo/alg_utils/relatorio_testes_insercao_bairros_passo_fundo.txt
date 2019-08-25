@@ -1,0 +1,1299 @@
+Data e hora:06-07-2019 19:22:41
+
+1 - VILA INDUSTRIAL
+
+Estava na lista de nomes ['VILA INDUSTRIAL', 'Endere√ßo completo: Vila Industrial, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+1
+
+
+
+2 - LOT. PIO XII
+
+Estava na lista de nomes ['LOTEAMENTO PIO XII', 'Endere√ßo completo: Lot. Pio XII, Passo Fundo - RS, 99042-800, Brasil']
+
+Bairro inserido no banco de dados. ID:
+2
+
+
+
+3 - VILA 1∫ CENTEN¡RIO
+
+["N√£o √© bairro segundo a API ['establishment', 'health', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Carazinho, 299 - 1∫ Centen·rio, Passo Fundo - RS, 99040-630, Brasil', "componentes de endere√ßo: [{'short_name': '299', 'long_name': '299', 'types': ['street_number']}, {'short_name': 'R. Carazinho', 'long_name': 'Rua Carazinho', 'types': ['route']}, {'short_name': '1∫ Centen·rio', 'long_name': '1∫ Centen·rio', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99040-630', 'long_name': '99040-630', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 3
+
+4 - VILA DONA ELIZA
+
+Estava na lista de nomes ['VILA DONA ELIZA', 'Endere√ßo completo: Vila Dona Eliza, Passo Fundo - RS, 99042-800, Brasil']
+
+Bairro inserido no banco de dados. ID:
+4
+
+
+
+5 - VILA SANTA TEREZINHA
+
+Estava na lista de nomes ['VILA SANTA TEREZINHA', 'Endere√ßo completo: Vila Santa Terezinha, Passo Fundo - RS, 99042-800, Brasil']
+
+Bairro inserido no banco de dados. ID:
+5
+
+
+
+6 - VILA NICOLAU VERGUEIRO
+
+Estava na lista de nomes ['VILA NICOLAU VERGUEIRO', 'Endere√ßo completo: Vila Nicolau Vergueiro, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+6
+
+
+
+7 - VILA LAGOA DO POTREIRO
+
+["N√£o √© bairro segundo a API ['locality', 'political'] ", 'Endere√ßo completo encontrado: Passo Fundo, RS, Brasil', "componentes de endere√ßo: [{'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['locality', 'political']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 7
+
+8 - VILA POLIDORO ALBUQUERQUE
+
+["N√£o √© bairro segundo a API ['route'] ", 'Endere√ßo completo encontrado: R. Polidoro de Albuquerque, Carazinho - RS, 99500-000, Brasil', "componentes de endere√ßo: [{'short_name': 'R. Polidoro de Albuquerque', 'long_name': 'Rua Polidoro de Albuquerque', 'types': ['route']}, {'short_name': 'Carazinho', 'long_name': 'Carazinho', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99500-000', 'long_name': '99500-000', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 8
+
+9 - LOT. NONOAI
+
+["N√£o √© bairro segundo a API ['route'] ", 'Endere√ßo completo encontrado: R. Nonoai, Passo Fundo - RS, 99042-800, Brasil', "componentes de endere√ßo: [{'short_name': 'R. Nonoai', 'long_name': 'Rua Nonoai', 'types': ['route']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99042-800', 'long_name': '99042-800', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 9
+
+10 - VILA DR. GALVES
+
+["N√£o √© bairro segundo a API ['locality', 'political'] ", 'Endere√ßo completo encontrado: Passo Fundo, RS, Brasil', "componentes de endere√ßo: [{'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['locality', 'political']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 10
+
+11 - VILA OPER¡RIA
+
+Estava na lista de nomes ['VILA OPERARIA', 'Endere√ßo completo: Vila Operaria, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+11
+
+
+
+12 - VILA INDEPENDENTE
+
+Estava na lista de nomes ['VILA INDEPENDENTE', 'Endere√ßo completo: Vila Independente, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+12
+
+
+
+13 - VILA LUIZA
+
+Estava na lista de nomes ['VILA LUIZA', 'Endere√ßo completo: Vila Luiza, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+13
+
+
+
+14 - VILA JARDIM
+
+Estava na lista de nomes ['VILA JARDIM', 'Endere√ßo completo: Vila Jardim, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+14
+
+
+
+15 - VILA TUPINAMB¡
+
+Estava na lista de nomes ['VILA TUPINAMBA', 'Endere√ßo completo: Vila Tupinamba, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+15
+
+
+
+16 - VILA REIS
+
+Estava na lista de nomes ['VILA REIS', 'Endere√ßo completo: Vila Reis, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+16
+
+
+
+17 - VILA SCHEL
+
+Estava na lista de nomes ['VILA SCHELL', 'Endere√ßo completo: Vila Schell, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+17
+
+
+
+18 - VILA LUCAS ARA⁄JO
+
+Estava na lista de nomes ['VILA LUCAS ARAUJO', 'Endere√ßo completo: Vila Lucas Araujo, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+18
+
+
+
+19 - VILA IVO FERREIRA
+
+["N√£o √© bairro segundo a API ['establishment', 'health', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. do Ros·rio - Bom Jesus, Passo Fundo - RS, 99062-140, Brasil', "componentes de endere√ßo: [{'short_name': 'R. do Ros·rio', 'long_name': 'Rua do Ros·rio', 'types': ['route']}, {'short_name': 'Bom Jesus', 'long_name': 'Bom Jesus', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99062-140', 'long_name': '99062-140', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 19
+
+20 - VILA EXPOSI«√O
+
+Estava na lista de nomes ['VILA EXPOSICAO', 'Endere√ßo completo: Vila Exposicao, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+20
+
+
+
+21 - LOT. SANTO ANT‘NIO
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: Av. Brasil Leste, 1556 - PetrÛpolis, Passo Fundo - RS, 99050-000, Brasil', "componentes de endere√ßo: [{'short_name': '1556', 'long_name': '1556', 'types': ['street_number']}, {'short_name': 'Av. Brasil Leste', 'long_name': 'Avenida Brasil Leste', 'types': ['route']}, {'short_name': 'PetrÛpolis', 'long_name': 'PetrÛpolis', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99050-000', 'long_name': '99050-000', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 21
+
+22 - BAIRRO COPACABANA
+
+["N√£o √© bairro segundo a API ['car_repair', 'establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Claudino Toldo, 181 - S„o Cristovao, Passo Fundo - RS, 99060-500, Brasil', "componentes de endere√ßo: [{'short_name': '181', 'long_name': '181', 'types': ['street_number']}, {'short_name': 'R. Claudino Toldo', 'long_name': 'Rua Claudino Toldo', 'types': ['route']}, {'short_name': 'S„o Cristovao', 'long_name': 'S„o Cristovao', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99060-500', 'long_name': '99060-500', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 22
+
+23 - LOT. MAU¡
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: Av. Mau· - Rosel‚ndia, Passo Fundo - RS, 99066-010, Brasil', "componentes de endere√ßo: [{'short_name': 'Av. Mau·', 'long_name': 'Avenida Mau·', 'types': ['route']}, {'short_name': 'Rosel‚ndia', 'long_name': 'Rosel‚ndia', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99066-010', 'long_name': '99066-010', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 23
+
+24 - VILA ESPLANADA
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Clementino LuÌs ViÍira, 452 - S„o Cristovao, Passo Fundo - RS, 99060-080, Brasil', "componentes de endere√ßo: [{'short_name': '452', 'long_name': '452', 'types': ['street_number']}, {'short_name': 'R. Clementino LuÌs ViÍira', 'long_name': 'Rua Clementino LuÌs ViÍira', 'types': ['route']}, {'short_name': 'S„o Cristovao', 'long_name': 'S„o Cristovao', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99060-080', 'long_name': '99060-080', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 24
+
+25 - BAIRRO RICCI
+
+["N√£o √© bairro segundo a API ['route'] ", 'Endere√ßo completo encontrado: R. Carlos RogÈrio Ricci - Lot. Santa Maria II, Passo Fundo - RS, Brasil', "componentes de endere√ßo: [{'short_name': 'R. Carlos RogÈrio Ricci', 'long_name': 'Rua Carlos RogÈrio Ricci', 'types': ['route']}, {'short_name': 'Lot. Santa Maria II', 'long_name': 'Loteamento Santa Maria II', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 25
+
+26 - VILA LEOPOLDINA
+
+Estava na lista de nomes ['VILA LEOPOLDINA', 'Endere√ßo completo: Vila Leopoldina, S„o Paulo - SP, 02675-031, Brasil']
+
+Bairro inserido no banco de dados. ID:
+26
+
+
+
+27 - LOT. S√O LUIZ
+
+["N√£o √© bairro segundo a API ['establishment', 'funeral_home', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Teixeira Soares, 1118 - Sala 05 - Centro, Passo Fundo - RS, 99010-081, Brasil', "componentes de endere√ßo: [{'short_name': 'Sala 05', 'long_name': 'Sala 05', 'types': ['subpremise']}, {'short_name': '1118', 'long_name': '1118', 'types': ['street_number']}, {'short_name': 'R. Teixeira Soares', 'long_name': 'Rua Teixeira Soares', 'types': ['route']}, {'short_name': 'Centro', 'long_name': 'Centro', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99010-081', 'long_name': '99010-081', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 27
+
+28 - VILA Z. DE COSTI
+
+["N√£o √© bairro segundo a API ['establishment', 'general_contractor', 'point_of_interest'] ", 'Endere√ßo completo encontrado: Av. Pres. Vargas, 1845 - Vila Z de Costi, Passo Fundo - RS, 99070-000, Brasil', "componentes de endere√ßo: [{'short_name': '1845', 'long_name': '1845', 'types': ['street_number']}, {'short_name': 'Avenida Presidente Vargas', 'long_name': 'Avenida Presidente Vargas', 'types': ['route']}, {'short_name': 'Vila Z de Costi', 'long_name': 'Vila Z de Costi', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99070-000', 'long_name': '99070-000', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 28
+
+29 - VILA REINALDO PATUSSI
+
+["N√£o √© bairro segundo a API ['route'] ", 'Endere√ßo completo encontrado: R. Jacinto Patussi, Passo Fundo - RS, 99042-800, Brasil', "componentes de endere√ßo: [{'short_name': 'R. Jacinto Patussi', 'long_name': 'Rua Jacinto Patussi', 'types': ['route']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99042-800', 'long_name': '99042-800', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 29
+
+30 - VILA SANTA MARIA
+
+Estava na lista de nomes ['VILA SANTA MARIA', 'Endere√ßo completo: Vila Santa Maria, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+30
+
+
+
+31 - VILA CRUZEIRO
+
+Estava na lista de nomes ['VILA CRUZEIRO', 'Endere√ßo completo: Vila Cruzeiro, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+31
+
+
+
+32 - VILA RODRIGUES
+
+Estava na lista de nomes ['VILA RODRIGUES', 'Endere√ßo completo: Vila Rodrigues, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+32
+
+
+
+33 - VILA POPULAR
+
+Estava na lista de nomes ['VILA POPULAR', 'Endere√ßo completo: Vila Popular, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+33
+
+
+
+34 - VILA ARMANDO ANNES
+
+Estava na lista de nomes ['VILA ARMANDO ANNES', 'Endere√ßo completo: Vila Armando Annes, Passo Fundo - RS, 99042-800, Brasil']
+
+Bairro inserido no banco de dados. ID:
+34
+
+
+
+35 - VILA PETR”POLIS
+
+Estava na lista de nomes ['PETR”POLIS', 'Endere√ßo completo: PetrÛpolis, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+35
+
+
+
+36 - VILA ENTRE RIOS
+
+Estava na lista de nomes ['VILA ENTRE RIOS', 'Endere√ßo completo: Vila Entre Rios, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+36
+
+
+
+37 - VILA FERROVI¡RIOS
+
+Estava na lista de nomes ['VILA FERROVIARIOS', 'Endere√ßo completo: Vila Ferroviarios, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+37
+
+
+
+38 - VILA ALICE
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Amazonas, 619 - Vila Vera Cruz, Passo Fundo - RS, 99040-120, Brasil', "componentes de endere√ßo: [{'short_name': '619', 'long_name': '619', 'types': ['street_number']}, {'short_name': 'R. Amazonas', 'long_name': 'Rua Amazonas', 'types': ['route']}, {'short_name': 'Vila Vera Cruz', 'long_name': 'Vila Vera Cruz', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99040-120', 'long_name': '99040-120', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 38
+
+39 - LOT. NOVA ESTA«√O
+
+Estava na lista de nomes ['LOTEAMENTO NOVA ESTACAO', 'Endere√ßo completo: Lot. Nova Estacao, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+39
+
+
+
+40 - VILA ISABEL
+
+["N√£o √© bairro segundo a API ['church', 'establishment', 'place_of_worship', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Ismael de Quadros, 851 - Vila Luiza, Passo Fundo - RS, 99072-440, Brasil', "componentes de endere√ßo: [{'short_name': '851', 'long_name': '851', 'types': ['street_number']}, {'short_name': 'R. Ismael de Quadros', 'long_name': 'Rua Ismael de Quadros', 'types': ['route']}, {'short_name': 'Vila Luiza', 'long_name': 'Vila Luiza', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99072-440', 'long_name': '99072-440', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 40
+
+41 - CH¡CARAS BELA VISTA
+
+Estava na lista de nomes ['CH¡CARA BELA VISTA', 'Endere√ßo completo: Ch·cara Bela Vista, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+41
+
+
+
+42 - LOT. PARQUE FARROUPILHA
+
+Estava na lista de nomes ['LOTEAMENTO PARQUE FARROUPILHA', 'Endere√ßo completo: Lot. Parque Farroupilha, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+42
+
+
+
+43 - BAIRRO S√O JOS…
+
+Estava na lista de nomes ['S√O JOS…', 'Endere√ßo completo: S„o JosÈ, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+43
+
+
+
+44 - LOT. VICTOR ISSLER
+
+Estava na lista de nomes ['LOTEAMENTO VICTOR ISSLER', 'Endere√ßo completo: Lot. Victor Issler, Passo Fundo - RS, 99042-800, Brasil']
+
+Bairro inserido no banco de dados. ID:
+44
+
+
+
+45 - BAIRRO S√O LUIZ GONZAGA
+
+Estava na lista de nomes ['S√O LUIZ GONZAGA', 'Endere√ßo completo: S„o Luiz Gonzaga, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+45
+
+
+
+46 - VILA GRACIOSA
+
+["N√£o √© bairro segundo a API ['establishment', 'lodging', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Graciosa Preto, 115 - Vila Popular, Passo Fundo - RS, 99010-430, Brasil', "componentes de endere√ßo: [{'short_name': '115', 'long_name': '115', 'types': ['street_number']}, {'short_name': 'R. Graciosa Preto', 'long_name': 'Rua Graciosa Preto', 'types': ['route']}, {'short_name': 'Vila Popular', 'long_name': 'Vila Popular', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99010-430', 'long_name': '99010-430', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 46
+
+47 - LOT. S√O CRIST”V√O
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: Lot. Santa Maria II, Passo Fundo - RS, Brasil', "componentes de endere√ßo: [{'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'Lot. Santa Maria II', 'long_name': 'Loteamento Santa Maria II', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99070', 'long_name': '99070', 'types': ['postal_code', 'postal_code_prefix']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 47
+
+48 - LOT. ESCOLA RURAL
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest', 'school'] ", 'Endere√ßo completo encontrado: R. Claudino Toldo, 155 - S„o Cristovao, Passo Fundo - RS, 99060-500, Brasil', "componentes de endere√ßo: [{'short_name': '155', 'long_name': '155', 'types': ['street_number']}, {'short_name': 'R. Claudino Toldo', 'long_name': 'Rua Claudino Toldo', 'types': ['route']}, {'short_name': 'S„o Cristovao', 'long_name': 'S„o Cristovao', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99060-500', 'long_name': '99060-500', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 48
+
+49 - VILA PLANALTINA
+
+Estava na lista de nomes ['VILA PLANALTINA', 'Endere√ßo completo: Vila Planaltina, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+49
+
+
+
+50 - VILA SIMON
+
+Estava na lista de nomes ['VILA SIMON', 'Endere√ßo completo: Vila Simon, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+50
+
+
+
+51 - VILA CARMEN
+
+Estava na lista de nomes ['VILA CARMEM', 'Endere√ßo completo: Vila Carmem, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+51
+
+
+
+52 - VILA GUILHERME MORSCH
+
+["N√£o √© bairro segundo a API ['route'] ", 'Endere√ßo completo encontrado: R. Ernesto Morsch - Santa Marta, Passo Fundo - RS, Brasil', "componentes de endere√ßo: [{'short_name': 'R. Ernesto Morsch', 'long_name': 'Rua Ernesto Morsch', 'types': ['route']}, {'short_name': 'Santa Marta', 'long_name': 'Santa Marta', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99036', 'long_name': '99036', 'types': ['postal_code', 'postal_code_prefix']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 52
+
+53 - VILA S√O JO√O
+
+["N√£o √© bairro segundo a API ['route'] ", 'Endere√ßo completo encontrado: R. S„o Jo„o, Passo Fundo - RS, 99072-740, Brasil', "componentes de endere√ßo: [{'short_name': 'R. S„o Jo„o', 'long_name': 'Rua S„o Jo„o', 'types': ['route']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99072-740', 'long_name': '99072-740', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 53
+
+54 - VILA BOA VISTA
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: Estr. Geral Passo do Cruz, 104-1000 - S„o Luiz Gonzaga, Passo Fundo - RS, 99054-020, Brasil', "componentes de endere√ßo: [{'short_name': '104-1000', 'long_name': '104-1000', 'types': ['street_number']}, {'short_name': 'Estr. Geral Passo do Cruz', 'long_name': 'Estrada Geral Passo do Cruz', 'types': ['route']}, {'short_name': 'S„o Luiz Gonzaga', 'long_name': 'S„o Luiz Gonzaga', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99054-020', 'long_name': '99054-020', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 54
+
+55 - LOT. FOR«A E LUZ
+
+Estava na lista de nomes ['LOTEAMENTO FORCA E LUZ', 'Endere√ßo completo: Lot. Forca e Luz, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+55
+
+
+
+56 - VILA 20 DE SETEMBRO
+
+["N√£o √© bairro segundo a API ['route'] ", 'Endere√ßo completo encontrado: R. Vinte de Setembro - Centro, Passo Fundo - RS, Brasil', "componentes de endere√ßo: [{'short_name': 'R. Vinte de Setembro', 'long_name': 'Rua Vinte de Setembro', 'types': ['route']}, {'short_name': 'Centro', 'long_name': 'Centro', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 56
+
+57 - VILA SANTA MARIA
+
+Estava na lista de nomes ['VILA SANTA MARIA', 'Endere√ßo completo: Vila Santa Maria, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+57
+
+
+
+58 - VILA DON¡RIA
+
+Estava na lista de nomes ['VILA DONARIA', 'Endere√ßo completo: Vila Donaria, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+58
+
+
+
+59 - VILA NOSSA SENHORA APARECIDA
+
+Estava na lista de nomes ['VILA NOSSA SENHORA APARECIDA', 'Endere√ßo completo: Vila Nossa Sra. Aparecida, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+59
+
+
+
+60 - VILA JER‘NIMO COELHO
+
+Estava na lista de nomes ['VILA JERONIMO COELHO', 'Endere√ßo completo: Vila Jeronimo Coelho, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+60
+
+
+
+61 - BAIRRO RECREIO
+
+Estava na lista de nomes ['RECREIO', 'Endere√ßo completo: Recreio, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+61
+
+
+
+62 - VILA XANGRILA
+
+Estava na lista de nomes ['VILA XANGRI-LA', 'Endere√ßo completo: Vila Xangri-La, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+62
+
+
+
+63 - VILA S√O MIGUEL
+
+Estava na lista de nomes ['VILA SAO MIGUEL', 'Endere√ßo completo: Vila Sao Miguel, Passo Fundo - RS, 99042-800, Brasil']
+
+Bairro inserido no banco de dados. ID:
+63
+
+
+
+64 - VILA DONA J⁄LIA
+
+Estava na lista de nomes ['VILA DONA JULIA', 'Endere√ßo completo: Vila Dona Julia, Passo Fundo - RS, 99042-800, Brasil']
+
+Bairro inserido no banco de dados. ID:
+64
+
+
+
+65 - VILA AGOSTINHO CARR√O
+
+Estava na lista de nomes ['VILA AGOSTINHO CARRAO', 'Endere√ßo completo: Vila Agostinho Carrao, Passo Fundo - RS, 99042-800, Brasil']
+
+Bairro inserido no banco de dados. ID:
+65
+
+
+
+66 - VILA GRAEFF
+
+["N√£o √© bairro segundo a API ['establishment', 'health', 'local_government_office', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. AmÌlton Portes da Silva, 120 - Nene Graeff, Passo Fundo - RS, 99042-800, Brasil', "componentes de endere√ßo: [{'short_name': '120', 'long_name': '120', 'types': ['street_number']}, {'short_name': 'R. AmÌlton Portes da Silva', 'long_name': 'Rua AmÌlton Portes da Silva', 'types': ['route']}, {'short_name': 'Nene Graeff', 'long_name': 'Nene Graeff', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99042-800', 'long_name': '99042-800', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 66
+
+67 - PARQUE DOS COMERCI¡RIOS
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Morom, 1731 - Centro, Passo Fundo - RS, 99010-033, Brasil', "componentes de endere√ßo: [{'short_name': '1731', 'long_name': '1731', 'types': ['street_number']}, {'short_name': 'R. Morom', 'long_name': 'Rua Morom', 'types': ['route']}, {'short_name': 'Centro', 'long_name': 'Centro', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99010-033', 'long_name': '99010-033', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 67
+
+68 - LOT. S√O JO√O DA ESC”CIA
+
+["N√£o √© bairro segundo a API ['administrative_area_level_1', 'political'] ", 'Endere√ßo completo encontrado: EscÛcia, Reino Unido', "componentes de endere√ßo: [{'short_name': 'EscÛcia', 'long_name': 'EscÛcia', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'GB', 'long_name': 'Reino Unido', 'types': ['country', 'political']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 68
+
+69 - VILA AMBROZINA
+
+["N√£o √© bairro segundo a API ['doctor', 'establishment', 'health', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Uruguai, 1141 - Centro, Passo Fundo - RS, 99010-111, Brasil', "componentes de endere√ßo: [{'short_name': '1141', 'long_name': '1141', 'types': ['street_number']}, {'short_name': 'R. Uruguai', 'long_name': 'Rua Uruguai', 'types': ['route']}, {'short_name': 'Centro', 'long_name': 'Centro', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99010-111', 'long_name': '99010-111', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 69
+
+70 - VILA F¡TIMA
+
+Estava na lista de nomes ['VILA F¡TIMA', 'Endere√ßo completo: Vila F·tima, Passo Fundo - RS, 99042-800, Brasil']
+
+Bairro inserido no banco de dados. ID:
+70
+
+
+
+71 - LOT. ÕTALO BENVEGNO
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest', 'store'] ", 'Endere√ßo completo encontrado: R. Teixeira Soares, 172 - Centro, Passo Fundo - RS, 99010-080, Brasil', "componentes de endere√ßo: [{'short_name': '172', 'long_name': '172', 'types': ['street_number']}, {'short_name': 'R. Teixeira Soares', 'long_name': 'Rua Teixeira Soares', 'types': ['route']}, {'short_name': 'Centro', 'long_name': 'Centro', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99010-080', 'long_name': '99010-080', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 71
+
+72 - PARQUE BELA VISTA
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: Estr. Geral Passo do Cruz, 104-1000 - S„o Luiz Gonzaga, Passo Fundo - RS, 99054-020, Brasil', "componentes de endere√ßo: [{'short_name': '104-1000', 'long_name': '104-1000', 'types': ['street_number']}, {'short_name': 'Estr. Geral Passo do Cruz', 'long_name': 'Estrada Geral Passo do Cruz', 'types': ['route']}, {'short_name': 'S„o Luiz Gonzaga', 'long_name': 'S„o Luiz Gonzaga', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99054-020', 'long_name': '99054-020', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 72
+
+73 - LOT. M. EDU REIS E L. CASSAROS
+
+["N√£o √© bairro segundo a API ['route'] ", 'Endere√ßo completo encontrado: R. Fagundes dos Reis, Passo Fundo - RS, Brasil', "componentes de endere√ßo: [{'short_name': 'R. Fagundes dos Reis', 'long_name': 'Rua Fagundes dos Reis', 'types': ['route']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 73
+
+74 - LOT. WOLMAR SALTON
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest', 'school'] ", 'Endere√ßo completo encontrado: R. Claudino Toldo, 155 - S„o Cristovao, Passo Fundo - RS, 99060-500, Brasil', "componentes de endere√ßo: [{'short_name': '155', 'long_name': '155', 'types': ['street_number']}, {'short_name': 'R. Claudino Toldo', 'long_name': 'Rua Claudino Toldo', 'types': ['route']}, {'short_name': 'S„o Cristovao', 'long_name': 'S„o Cristovao', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99060-500', 'long_name': '99060-500', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 74
+
+75 - LOT. C…SAR SANTOS
+
+["N√£o √© bairro segundo a API ['establishment', 'hospital', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. AlcÌdes Moura, 100 - Centro, Passo Fundo - RS, 99010-640, Brasil', "componentes de endere√ßo: [{'short_name': '100', 'long_name': '100', 'types': ['street_number']}, {'short_name': 'R. AlcÌdes Moura', 'long_name': 'Rua AlcÌdes Moura', 'types': ['route']}, {'short_name': 'Centro', 'long_name': 'Centro', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99010-640', 'long_name': '99010-640', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 75
+
+76 - CONJUNTO HABITACIONAL LUIZ SECCHI
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest', 'school'] ", 'Endere√ßo completo encontrado: Rua Dalila Melo, 160 - Nucleo Habitacional Luiz Secchi - COHAB II, Passo Fundo - RS, 99030-420, Brasil', "componentes de endere√ßo: [{'short_name': 'Nucleo Habitacional Luiz Secchi - COHAB II', 'long_name': 'Nucleo Habitacional Luiz Secchi - COHAB II', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99030-420', 'long_name': '99030-420', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 76
+
+77 - LOT. PEDRO CERATTI
+
+["N√£o √© bairro segundo a API ['establishment', 'pet_store', 'point_of_interest', 'store'] ", 'Endere√ßo completo encontrado: Av. Brasil Oeste, 2370 - Boqueir„o, Passo Fundo - RS, 99025-000, Brasil', "componentes de endere√ßo: [{'short_name': '2370', 'long_name': '2370', 'types': ['street_number']}, {'short_name': 'Av. Brasil Oeste', 'long_name': 'Avenida Brasil Oeste', 'types': ['route']}, {'short_name': 'Boqueir„o', 'long_name': 'Boqueir„o', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99025-000', 'long_name': '99025-000', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 77
+
+78 - LOT. PLANALTO
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: Comercial Azambuja - Rodovia BR-285, Km 296, s/n - JosÈ Alexandre Zachia, Passo Fundo - RS, 99042-800, Brasil', "componentes de endere√ßo: [{'short_name': 'Comercial Azambuja', 'long_name': 'Comercial Azambuja', 'types': ['premise']}, {'short_name': 's/n', 'long_name': 's/n', 'types': ['street_number']}, {'short_name': 'Rodovia BR-285, Km 296', 'long_name': 'Rodovia BR-285, Km 296', 'types': ['route']}, {'short_name': 'JosÈ Alexandre Zachia', 'long_name': 'JosÈ Alexandre Zachia', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99042-800', 'long_name': '99042-800', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 78
+
+79 - JARDIM PRIMAVERA
+
+["N√£o √© bairro segundo a API ['establishment', 'moving_company', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Valandro, 215 - Jardim Primavera, Passo Fundo - RS, 99010-125, Brasil', "componentes de endere√ßo: [{'short_name': '215', 'long_name': '215', 'types': ['street_number']}, {'short_name': 'R. Valandro', 'long_name': 'Rua Valandro', 'types': ['route']}, {'short_name': 'Jardim Primavera', 'long_name': 'Jardim Primavera', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99010-125', 'long_name': '99010-125', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 79
+
+80 - LOT. NOSSA SENHORA DA SA⁄DE
+
+["N√£o √© bairro segundo a API ['establishment', 'health', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Nicolau JosÈ Ribeiro, 100 - NS™ Aparecida, Passo Fundo - RS, 99034-000, Brasil', "componentes de endere√ßo: [{'short_name': '100', 'long_name': '100', 'types': ['street_number']}, {'short_name': 'R. Nicolau JosÈ Ribeiro', 'long_name': 'Rua Nicolau JosÈ Ribeiro', 'types': ['route']}, {'short_name': 'NS™ Aparecida', 'long_name': 'NS™ Aparecida', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99034-000', 'long_name': '99034-000', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 80
+
+81 - LOT. IMOBILI¡RIA CHARRUA
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest', 'real_estate_agency'] ", 'Endere√ßo completo encontrado: Av. Sete de Setembro - Vila Nicolau Vergueiro, Passo Fundo - RS, 99010-121, Brasil', "componentes de endere√ßo: [{'short_name': 'Av. Sete de Setembro', 'long_name': 'Avenida Sete de Setembro', 'types': ['route']}, {'short_name': 'Vila Nicolau Vergueiro', 'long_name': 'Vila Nicolau Vergueiro', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99010-121', 'long_name': '99010-121', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 81
+
+82 - LOT. BOQUEIR√O
+
+["N√£o √© bairro segundo a API ['establishment', 'parking', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Lava PÈs, 1881 - Boqueir„o, Passo Fundo - RS, 99025-120, Brasil', "componentes de endere√ßo: [{'short_name': '1881', 'long_name': '1881', 'types': ['street_number']}, {'short_name': 'R. Lava PÈs', 'long_name': 'Rua Lava PÈs', 'types': ['route']}, {'short_name': 'Boqueir„o', 'long_name': 'Boqueir„o', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99025-120', 'long_name': '99025-120', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 82
+
+83 - VILA BERTHIER
+
+Estava na lista de nomes ['VILA BERTHIER', 'Endere√ßo completo: Vila Berthier, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+83
+
+
+
+84 - LOT. SAGRADA FAMÕLIA
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. da Floresta, 1043 - PetrÛpolis, Passo Fundo - RS, 99051-260, Brasil', "componentes de endere√ßo: [{'short_name': '1043', 'long_name': '1043', 'types': ['street_number']}, {'short_name': 'R. da Floresta', 'long_name': 'Rua da Floresta', 'types': ['route']}, {'short_name': 'PetrÛpolis', 'long_name': 'PetrÛpolis', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99051-260', 'long_name': '99051-260', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 84
+
+85 - LOT. JO√O L¬NGARO
+
+["N√£o √© bairro segundo a API ['establishment', 'food', 'grocery_or_supermarket', 'point_of_interest', 'store', 'supermarket'] ", 'Endere√ßo completo encontrado: R. Jo„o L‚ngaro, 115 - VL Planaltina, Passo Fundo - RS, 99062-060, Brasil', "componentes de endere√ßo: [{'short_name': '115', 'long_name': '115', 'types': ['street_number']}, {'short_name': 'R. Jo„o L‚ngaro', 'long_name': 'Rua Jo„o L‚ngaro', 'types': ['route']}, {'short_name': 'VL Planaltina', 'long_name': 'VL Planaltina', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99062-060', 'long_name': '99062-060', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 85
+
+86 - LOT. MORENO A. SANTOS
+
+["N√£o √© bairro segundo a API ['route'] ", 'Endere√ßo completo encontrado: R. Dr. AntÙnio Costa Santos - S„o Cristovao, Passo Fundo - RS, Brasil', "componentes de endere√ßo: [{'short_name': 'R. Dr. AntÙnio Costa Santos', 'long_name': 'Rua Doutor AntÙnio Costa Santos', 'types': ['route']}, {'short_name': 'S„o Cristovao', 'long_name': 'S„o Cristovao', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99062', 'long_name': '99062', 'types': ['postal_code', 'postal_code_prefix']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 86
+
+87 - BAIRRO IRM√OS REBECHI
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Novo Hamburgo, 166 - Vila Vera Cruz, Passo Fundo - RS, 99025-110, Brasil', "componentes de endere√ßo: [{'short_name': '166', 'long_name': '166', 'types': ['street_number']}, {'short_name': 'R. Novo Hamburgo', 'long_name': 'Rua Novo Hamburgo', 'types': ['route']}, {'short_name': 'Vila Vera Cruz', 'long_name': 'Vila Vera Cruz', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99025-110', 'long_name': '99025-110', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 87
+
+88 - VILA FEROLDI
+
+Estava na lista de nomes ['VILA FEROLDI', 'Endere√ßo completo: Vila Feroldi, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+88
+
+
+
+89 - LOT. PARQUE TURÕSTICO
+
+["N√£o √© bairro segundo a API ['establishment', 'park', 'point_of_interest'] ", 'Endere√ßo completo encontrado: Parque da Gare - Vila Lucas Araujo, Passo Fundo - RS, 99072-080, Brasil', "componentes de endere√ßo: [{'short_name': 'Parque da Gare', 'long_name': 'Parque da Gare', 'types': ['establishment', 'park', 'point_of_interest']}, {'short_name': 'Vila Lucas Araujo', 'long_name': 'Vila Lucas Araujo', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99072-080', 'long_name': '99072-080', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 89
+
+90 - LOT. JABOTICABAL
+
+Estava na lista de nomes ['LOTEAMENTO JABOTICABAL', 'Endere√ßo completo: Lot. Jaboticabal, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+90
+
+
+
+91 - LOT. PARQUE DO SOL
+
+["N√£o √© bairro segundo a API ['car_repair', 'establishment', 'point_of_interest', 'store'] ", 'Endere√ßo completo encontrado: R. Alonso de Camargo, 3964 - Centro, Passo Fundo - RS, 99032-040, Brasil', "componentes de endere√ßo: [{'short_name': '3964', 'long_name': '3964', 'types': ['street_number']}, {'short_name': 'R. Alonso de Camargo', 'long_name': 'Rua Alonso de Camargo', 'types': ['route']}, {'short_name': 'Centro', 'long_name': 'Centro', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99032-040', 'long_name': '99032-040', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 91
+
+92 - CONJUNTO HABITACIONAL EDMUNDO TREIN
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. OlÌmpio Loss - Boqueir„o, Passo Fundo - RS, 99042-800, Brasil', "componentes de endere√ßo: [{'short_name': 'R. OlÌmpio Loss', 'long_name': 'Rua OlÌmpio Loss', 'types': ['route']}, {'short_name': 'Boqueir„o', 'long_name': 'Boqueir„o', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99042-800', 'long_name': '99042-800', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 92
+
+93 - LOT. PARQUE LE√O XIII
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest', 'school'] ", 'Endere√ßo completo encontrado: R. Canoas, 207A - Lot. Le„o XIII, Passo Fundo - RS, 99042-280, Brasil', "componentes de endere√ßo: [{'short_name': '207A', 'long_name': '207A', 'types': ['street_number']}, {'short_name': 'R. Canoas', 'long_name': 'Rua Canoas', 'types': ['route']}, {'short_name': 'Lot. Le„o XIII', 'long_name': 'Lot. Le„o XIII', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99042-280', 'long_name': '99042-280', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 93
+
+94 - LOT. NEN  GRAEFF
+
+Estava na lista de nomes ['LOTEAMENTO NENE GRAEFF', 'Endere√ßo completo: Lot. Nene Graeff, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+94
+
+
+
+95 - LOT. MAGI
+
+Estava na lista de nomes ['LOTEAMENTO MAGI', 'Endere√ßo completo: Lot. Magi, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+95
+
+
+
+96 - LOT. SANTA RITA
+
+["N√£o √© bairro segundo a API ['establishment', 'health', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Fagundes dos Reis, 843 - Centro, Passo Fundo - RS, 99010-070, Brasil', "componentes de endere√ßo: [{'short_name': '843', 'long_name': '843', 'types': ['street_number']}, {'short_name': 'R. Fagundes dos Reis', 'long_name': 'Rua Fagundes dos Reis', 'types': ['route']}, {'short_name': 'Centro', 'long_name': 'Centro', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99010-070', 'long_name': '99010-070', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 96
+
+97 - LOT. JARDIM ANDR… REBECHI
+
+["N√£o √© bairro segundo a API ['route'] ", 'Endere√ßo completo encontrado: R. Henrique Rebechi - Lot. Santa Maria II, Passo Fundo - RS, Brasil', "componentes de endere√ßo: [{'short_name': 'R. Henrique Rebechi', 'long_name': 'Rua Henrique Rebechi', 'types': ['route']}, {'short_name': 'Lot. Santa Maria II', 'long_name': 'Loteamento Santa Maria II', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99062', 'long_name': '99062', 'types': ['postal_code', 'postal_code_prefix']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 97
+
+98 - LOT. S√O GERALDO
+
+->Erro de indice. Bairro n√£o encontrado. list index out of range 
+
+
+
+
+
+['N√£o foi encontrado']
+
+
+
+
+
+Adicionado como indefinido:
+id: 98
+
+99 - LOT. PARQUE RES. DON RODOLFO
+
+Estava na lista de nomes ['DOM RODOLFO', 'Endere√ßo completo: Dom Rodolfo, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+99
+
+
+
+100 - LOT. DON FELIPE
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Mato Castelhano, 120 - S„o Cristovao, Passo Fundo - RS, 99060-360, Brasil', "componentes de endere√ßo: [{'short_name': '120', 'long_name': '120', 'types': ['street_number']}, {'short_name': 'R. Mato Castelhano', 'long_name': 'Rua Mato Castelhano', 'types': ['route']}, {'short_name': 'S„o Cristovao', 'long_name': 'S„o Cristovao', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99060-360', 'long_name': '99060-360', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 100
+
+101 - LOT. S√O BENTO
+
+["N√£o √© bairro segundo a API ['route'] ", 'Endere√ßo completo encontrado: Tv. S„o Bento - Rosel‚ndia, Passo Fundo - RS, 99066-150, Brasil', "componentes de endere√ßo: [{'short_name': 'Tv. S„o Bento', 'long_name': 'Travessa S„o Bento', 'types': ['route']}, {'short_name': 'Rosel‚ndia', 'long_name': 'Rosel‚ndia', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99066-150', 'long_name': '99066-150', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 101
+
+102 - LOT. PROFESSOR SCHISLER
+
+["N√£o √© bairro segundo a API ['doctor', 'establishment', 'health', 'point_of_interest'] ", 'Endere√ßo completo encontrado: Cel. Bicaco, 991 Lot - Prof. Schisler, Passo Fundo - RS, 99032-210, Brasil', "componentes de endere√ßo: [{'short_name': 'Prof. Schisler', 'long_name': 'Professor Schisler', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99032-210', 'long_name': '99032-210', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 102
+
+103 - LOT. MORADA DO SOL
+
+Estava na lista de nomes ['LOTEAMENTO MORADA DA COLINA', 'Endere√ßo completo: Lot. Morada da Colina, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+103
+
+
+
+104 - LOT. JARDIM AM…RICA
+
+["N√£o √© bairro segundo a API ['establishment', 'health', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Ernesto Bertoldo - Santa Marta, Passo Fundo - RS, 99036-080, Brasil', "componentes de endere√ßo: [{'short_name': 'R. Ernesto Bertoldo', 'long_name': 'Rua Ernesto Bertoldo', 'types': ['route']}, {'short_name': 'Santa Marta', 'long_name': 'Santa Marta', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99036-080', 'long_name': '99036-080', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 104
+
+105 - LOT. SGARBI
+
+["N√£o √© bairro segundo a API ['locality', 'political'] ", 'Endere√ßo completo encontrado: Passo Fundo, RS, Brasil', "componentes de endere√ßo: [{'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['locality', 'political']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 105
+
+106 - LOT. ATEL COSTA VERDE
+
+["N√£o √© bairro segundo a API ['establishment', 'food', 'point_of_interest', 'store'] ", 'Endere√ßo completo encontrado: R. ¡lvaro de Quadros, 413 - S„o Cristovao, Passo Fundo - RS, 99064-000, Brasil', "componentes de endere√ßo: [{'short_name': '413', 'long_name': '413', 'types': ['street_number']}, {'short_name': 'R. ¡lvaro de Quadros', 'long_name': 'Rua ¡lvaro de Quadros', 'types': ['route']}, {'short_name': 'S„o Cristovao', 'long_name': 'S„o Cristovao', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99064-000', 'long_name': '99064-000', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 106
+
+107 - INVERNADINHA
+
+Estava na lista de nomes ['INVERNADINHA', 'Endere√ßo completo: Invernadinha, Passo Fundo - RS, 99042-800, Brasil']
+
+Bairro inserido no banco de dados. ID:
+107
+
+
+
+108 - VILA MATTOS
+
+Estava na lista de nomes ['VILA MATTOS', 'Endere√ßo completo: Vila Mattos, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+108
+
+
+
+109 - CONDOMÕNIO MORADA AL…M DO HORIZONTE
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: RS-324, Km 188, Passo Fundo - RS, Brasil', "componentes de endere√ßo: [{'short_name': 'Km 188', 'long_name': 'Km 188', 'types': ['street_number']}, {'short_name': 'RS-324', 'long_name': 'RS-324', 'types': ['route']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 109
+
+110 - LOT. ASSOCIA«√O ATL…TICA B. DO BRASIL
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Dr. Gelson Ribeiro, 366-372 - Vila Vera Cruz, Passo Fundo - RS, 99040-580, Brasil', "componentes de endere√ßo: [{'short_name': '366-372', 'long_name': '366-372', 'types': ['street_number']}, {'short_name': 'R. Dr. Gelson Ribeiro', 'long_name': 'Rua Doutor Gelson Ribeiro', 'types': ['route']}, {'short_name': 'Vila Vera Cruz', 'long_name': 'Vila Vera Cruz', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99040-580', 'long_name': '99040-580', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 110
+
+111 - LOT. JOS… ALEXANDRE ZACHIA
+
+["N√£o √© bairro segundo a API ['establishment', 'health', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Argemiro Ferreira, 70 - JosÈ Alexandre Zachia, Passo Fundo - RS, 99042-180, Brasil', "componentes de endere√ßo: [{'short_name': '70', 'long_name': '70', 'types': ['street_number']}, {'short_name': 'R. Argemiro Ferreira', 'long_name': 'Rua Argemiro Ferreira', 'types': ['route']}, {'short_name': 'JosÈ Alexandre Zachia', 'long_name': 'JosÈ Alexandre Zachia', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99042-180', 'long_name': '99042-180', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 111
+
+112 - LOT. MORADA DA COLINA
+
+Estava na lista de nomes ['LOTEAMENTO MORADA DA COLINA', 'Endere√ßo completo: Lot. Morada da Colina, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+112
+
+
+
+113 - LOT. CIDADE UNIVERSIT¡RIA
+
+->Erro de indice. Bairro n√£o encontrado. list index out of range 
+
+
+
+
+
+['N√£o foi encontrado']
+
+
+
+
+
+Adicionado como indefinido:
+id: 113
+
+114 - LOT. MANOEL DA SILVA CORRALO
+
+["N√£o √© bairro segundo a API ['route'] ", 'Endere√ßo completo encontrado: Tv. Manoel da Silva, Passo Fundo - RS, 99042-800, Brasil', "componentes de endere√ßo: [{'short_name': 'Tv. Manoel da Silva', 'long_name': 'Travessa Manoel da Silva', 'types': ['route']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99042-800', 'long_name': '99042-800', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 114
+
+115 - DISTRITO INDUSTRIAL VALINHOS
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: Rodovia BR 285, km 296, s/n - Centro LogÌstico LOG 285 - Distrito Industrial, Passo Fundo - RS, 99042-800, Brasil', "componentes de endere√ßo: [{'short_name': 'Distrito Industrial', 'long_name': 'Distrito Industrial', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99042-800', 'long_name': '99042-800', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 115
+
+116 - LOT. MENINO DEUS
+
+Estava na lista de nomes ['LOTEAMENTO MENINO DEUS', 'Endere√ßo completo: Lot. Menino Deus, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+116
+
+
+
+117 - LOT. LEONARDO ILHA
+
+Estava na lista de nomes ['LOTEAMENTO LEONARDO ILHA', 'Endere√ßo completo: Lot. Leonardo Ilha, Passo Fundo - RS, 99042-800, Brasil']
+
+Bairro inserido no banco de dados. ID:
+117
+
+
+
+118 - LOT. GARDEN
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Paulo da Luz CorrÍa, 115 - Lot. Casas Populares, Passo Fundo - RS, 99030-205, Brasil', "componentes de endere√ßo: [{'short_name': '115', 'long_name': '115', 'types': ['street_number']}, {'short_name': 'R. Paulo da Luz CorrÍa', 'long_name': 'Rua Paulo da Luz CorrÍa', 'types': ['route']}, {'short_name': 'Lot. Casas Populares', 'long_name': 'Loteamento Casas Populares', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99030-205', 'long_name': '99030-205', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 118
+
+119 - LOT. PAMPA
+
+["N√£o √© bairro segundo a API ['car_dealer', 'establishment', 'point_of_interest', 'store'] ", 'Endere√ßo completo encontrado: Av. Brasil Oeste, 3730 - Boqueir„o, Passo Fundo - RS, 99025-604, Brasil', "componentes de endere√ßo: [{'short_name': '3730', 'long_name': '3730', 'types': ['street_number']}, {'short_name': 'Av. Brasil Oeste', 'long_name': 'Avenida Brasil Oeste', 'types': ['route']}, {'short_name': 'Boqueir„o', 'long_name': 'Boqueir„o', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99025-604', 'long_name': '99025-604', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 119
+
+120 - S√O CRIST”V√O II
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: Rua Ivar Geremias Menezes, 1302 - S„o Cristovao, Passo Fundo - RS, 99060-463, Brasil', "componentes de endere√ßo: [{'short_name': '1302', 'long_name': '1302', 'types': ['street_number']}, {'short_name': 'Rua Ivar Geremias Menezes', 'long_name': 'Rua Ivar Geremias Menezes', 'types': ['route']}, {'short_name': 'S„o Cristovao', 'long_name': 'S„o Cristovao', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99060-463', 'long_name': '99060-463', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 120
+
+121 - LOT. VIA SUL
+
+Estava na lista de nomes ['LOTEAMENTO VIA SUL', 'Endere√ßo completo: Lot. Via Sul, Passo Fundo - RS, Brasil']
+
+Bairro inserido no banco de dados. ID:
+121
+
+
+
+122 - LOT. IPANEM
+
+["N√£o √© bairro segundo a API ['car_repair', 'establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Cel. Martins Cavalcante - Lot. Ipanema - 167, Passo Fundo - RS, 99060-350, Brasil', "componentes de endere√ßo: [{'short_name': 'R. Cel. Martins Cavalcante', 'long_name': 'Rua Coronel Martins Cavalcante', 'types': ['route']}, {'short_name': 'Lot. Ipanema - 167', 'long_name': 'Lot. Ipanema - 167', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99060-350', 'long_name': '99060-350', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 122
+
+123 - LOT. CEL. MASSOT
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Cel. Pelegrini, 618 - Cruzeiro/Rodrigues, Passo Fundo - RS, 99070-010, Brasil', "componentes de endere√ßo: [{'short_name': '618', 'long_name': '618', 'types': ['street_number']}, {'short_name': 'R. Cel. Pelegrini', 'long_name': 'Rua Coronel Pelegrini', 'types': ['route']}, {'short_name': 'Cruzeiro/Rodrigues', 'long_name': 'Cruzeiro/Rodrigues', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99070-010', 'long_name': '99070-010', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 123
+
+124 - LOT. SANTO AFONSO
+
+["N√£o √© bairro segundo a API ['establishment', 'food', 'point_of_interest', 'restaurant'] ", 'Endere√ßo completo encontrado: R. Afonso Pena, 58 - PetrÛpolis, Passo Fundo - RS, 99050-080, Brasil', "componentes de endere√ßo: [{'short_name': '58', 'long_name': '58', 'types': ['street_number']}, {'short_name': 'R. Afonso Pena', 'long_name': 'Rua Afonso Pena', 'types': ['route']}, {'short_name': 'PetrÛpolis', 'long_name': 'PetrÛpolis', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99050-080', 'long_name': '99050-080', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 124
+
+125 - LOT. BOM JESUS
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest', 'school'] ", 'Endere√ßo completo encontrado: R. S„o Roque, 691 - V Bom Jesus, Passo Fundo - RS, 99062-000, Brasil', "componentes de endere√ßo: [{'short_name': '691', 'long_name': '691', 'types': ['street_number']}, {'short_name': 'R. S„o Roque', 'long_name': 'Rua S„o Roque', 'types': ['route']}, {'short_name': 'V Bom Jesus', 'long_name': 'V Bom Jesus', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99062-000', 'long_name': '99062-000', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 125
+
+126 - LOT. HÕPICA
+
+["N√£o √© bairro segundo a API ['city_hall', 'establishment', 'local_government_office', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. S„o Sebasti„o, 1040 - Vila Vera Cruz, Passo Fundo - RS, 99042-010, Brasil', "componentes de endere√ßo: [{'short_name': '1040', 'long_name': '1040', 'types': ['street_number']}, {'short_name': 'R. S„o Sebasti„o', 'long_name': 'Rua S„o Sebasti„o', 'types': ['route']}, {'short_name': 'Vila Vera Cruz', 'long_name': 'Vila Vera Cruz', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99042-010', 'long_name': '99042-010', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 126
+
+127 - LOT. VILA NOVA
+
+["N√£o √© bairro segundo a API ['establishment', 'point_of_interest'] ", 'Endere√ßo completo encontrado: R. Manoel Beckman, 42 - Vila Santa Maria, Passo Fundo - RS, 99054-560, Brasil', "componentes de endere√ßo: [{'short_name': '42', 'long_name': '42', 'types': ['street_number']}, {'short_name': 'R. Manoel Beckman', 'long_name': 'Rua Manoel Beckman', 'types': ['route']}, {'short_name': 'Vila Santa Maria', 'long_name': 'Vila Santa Maria', 'types': ['political', 'sublocality', 'sublocality_level_1']}, {'short_name': 'Passo Fundo', 'long_name': 'Passo Fundo', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'RS', 'long_name': 'Rio Grande do Sul', 'types': ['administrative_area_level_1', 'political']}, {'short_name': 'BR', 'long_name': 'Brasil', 'types': ['country', 'political']}, {'short_name': '99054-560', 'long_name': '99054-560', 'types': ['postal_code']}]"]
+
+
+
+
+
+Adicionado como indefinido:
+id: 127
+
