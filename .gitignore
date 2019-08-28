@@ -1,3 +1,4 @@
 env
 watchpost_geo/.idea
 watchpost_geo/alg_utils/__pycache__
+watchpost_geo/static
